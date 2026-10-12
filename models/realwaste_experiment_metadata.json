@@ -1,0 +1,35 @@
+{
+  "dataset": "RealWaste",
+  "dataset_doi": "10.24432/C5SS4G",
+  "dataset_license": "CC BY 4.0",
+  "source": "UCI Machine Learning Repository",
+  "selection": "Balanced deterministic sample from five target classes",
+  "class_mapping": {
+    "glass": [
+      "Glass"
+    ],
+    "metal": [
+      "Metal"
+    ],
+    "plastic": [
+      "Plastic"
+    ],
+    "paper": [
+      "Paper",
+      "Cardboard"
+    ],
+    "organic": [
+      "Food Organics",
+      "Vegetation"
+    ]
+  },
+  "per_class": 200,
+  "split_counts_per_class": {
+    "train": 160,
+    "val": 20,
+    "test": 20
+  },
+  "seed": 42,
+  "total_images": 1000,
+  "limitation": "Images are from a landfill facility in Wollongong, Australia; results do not establish performance on Nigerian waste imagery."
+}

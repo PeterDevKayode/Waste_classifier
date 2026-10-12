@@ -1,0 +1,1001 @@
+file,split,target_class,source_class,source_member
+data/train/glass/realwaste_glass_train_000.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_393.jpg
+data/train/glass/realwaste_glass_train_001.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_178.jpg
+data/train/glass/realwaste_glass_train_002.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_162.jpg
+data/train/glass/realwaste_glass_train_003.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_408.jpg
+data/train/glass/realwaste_glass_train_004.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_9.jpg
+data/train/glass/realwaste_glass_train_005.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_150.jpg
+data/train/glass/realwaste_glass_train_006.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_11.jpg
+data/train/glass/realwaste_glass_train_007.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_44.jpg
+data/train/glass/realwaste_glass_train_008.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_182.jpg
+data/train/glass/realwaste_glass_train_009.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_254.jpg
+data/train/glass/realwaste_glass_train_010.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_258.jpg
+data/train/glass/realwaste_glass_train_011.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_137.jpg
+data/train/glass/realwaste_glass_train_012.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_76.jpg
+data/train/glass/realwaste_glass_train_013.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_212.jpg
+data/train/glass/realwaste_glass_train_014.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_10.jpg
+data/train/glass/realwaste_glass_train_015.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_268.jpg
+data/train/glass/realwaste_glass_train_016.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_300.jpg
+data/train/glass/realwaste_glass_train_017.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_311.jpg
+data/train/glass/realwaste_glass_train_018.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_107.jpg
+data/train/glass/realwaste_glass_train_019.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_143.jpg
+data/train/glass/realwaste_glass_train_020.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_331.jpg
+data/train/glass/realwaste_glass_train_021.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_420.jpg
+data/train/glass/realwaste_glass_train_022.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_275.jpg
+data/train/glass/realwaste_glass_train_023.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_370.jpg
+data/train/glass/realwaste_glass_train_024.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_80.jpg
+data/train/glass/realwaste_glass_train_025.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_256.jpg
+data/train/glass/realwaste_glass_train_026.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_140.jpg
+data/train/glass/realwaste_glass_train_027.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_92.jpg
+data/train/glass/realwaste_glass_train_028.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_399.jpg
+data/train/glass/realwaste_glass_train_029.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_208.jpg
+data/train/glass/realwaste_glass_train_030.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_283.jpg
+data/train/glass/realwaste_glass_train_031.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_380.jpg
+data/train/glass/realwaste_glass_train_032.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_356.jpg
+data/train/glass/realwaste_glass_train_033.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_334.jpg
+data/train/glass/realwaste_glass_train_034.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_98.jpg
+data/train/glass/realwaste_glass_train_035.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_350.jpg
+data/train/glass/realwaste_glass_train_036.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_27.jpg
+data/train/glass/realwaste_glass_train_037.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_1.jpg
+data/train/glass/realwaste_glass_train_038.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_277.jpg
+data/train/glass/realwaste_glass_train_039.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_325.jpg
+data/train/glass/realwaste_glass_train_040.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_248.jpg
+data/train/glass/realwaste_glass_train_041.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_222.jpg
+data/train/glass/realwaste_glass_train_042.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_128.jpg
+data/train/glass/realwaste_glass_train_043.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_223.jpg
+data/train/glass/realwaste_glass_train_044.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_112.jpg
+data/train/glass/realwaste_glass_train_045.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_264.jpg
+data/train/glass/realwaste_glass_train_046.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_406.jpg
+data/train/glass/realwaste_glass_train_047.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_332.jpg
+data/train/glass/realwaste_glass_train_048.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_82.jpg
+data/train/glass/realwaste_glass_train_049.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_3.jpg
+data/train/glass/realwaste_glass_train_050.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_146.jpg
+data/train/glass/realwaste_glass_train_051.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_94.jpg
+data/train/glass/realwaste_glass_train_052.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_357.jpg
+data/train/glass/realwaste_glass_train_053.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_271.jpg
+data/train/glass/realwaste_glass_train_054.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_163.jpg
+data/train/glass/realwaste_glass_train_055.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_95.jpg
+data/train/glass/realwaste_glass_train_056.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_244.jpg
+data/train/glass/realwaste_glass_train_057.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_15.jpg
+data/train/glass/realwaste_glass_train_058.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_409.jpg
+data/train/glass/realwaste_glass_train_059.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_287.jpg
+data/train/glass/realwaste_glass_train_060.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_360.jpg
+data/train/glass/realwaste_glass_train_061.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_369.jpg
+data/train/glass/realwaste_glass_train_062.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_118.jpg
+data/train/glass/realwaste_glass_train_063.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_63.jpg
+data/train/glass/realwaste_glass_train_064.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_292.jpg
+data/train/glass/realwaste_glass_train_065.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_62.jpg
+data/train/glass/realwaste_glass_train_066.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_321.jpg
+data/train/glass/realwaste_glass_train_067.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_151.jpg
+data/train/glass/realwaste_glass_train_068.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_308.jpg
+data/train/glass/realwaste_glass_train_069.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_204.jpg
+data/train/glass/realwaste_glass_train_070.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_113.jpg
+data/train/glass/realwaste_glass_train_071.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_70.jpg
+data/train/glass/realwaste_glass_train_072.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_227.jpg
+data/train/glass/realwaste_glass_train_073.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_50.jpg
+data/train/glass/realwaste_glass_train_074.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_262.jpg
+data/train/glass/realwaste_glass_train_075.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_111.jpg
+data/train/glass/realwaste_glass_train_076.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_84.jpg
+data/train/glass/realwaste_glass_train_077.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_274.jpg
+data/train/glass/realwaste_glass_train_078.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_65.jpg
+data/train/glass/realwaste_glass_train_079.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_358.jpg
+data/train/glass/realwaste_glass_train_080.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_64.jpg
+data/train/glass/realwaste_glass_train_081.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_284.jpg
+data/train/glass/realwaste_glass_train_082.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_39.jpg
+data/train/glass/realwaste_glass_train_083.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_402.jpg
+data/train/glass/realwaste_glass_train_084.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_376.jpg
+data/train/glass/realwaste_glass_train_085.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_317.jpg
+data/train/glass/realwaste_glass_train_086.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_130.jpg
+data/train/glass/realwaste_glass_train_087.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_333.jpg
+data/train/glass/realwaste_glass_train_088.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_371.jpg
+data/train/glass/realwaste_glass_train_089.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_387.jpg
+data/train/glass/realwaste_glass_train_090.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_305.jpg
+data/train/glass/realwaste_glass_train_091.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_117.jpg
+data/train/glass/realwaste_glass_train_092.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_165.jpg
+data/train/glass/realwaste_glass_train_093.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_17.jpg
+data/train/glass/realwaste_glass_train_094.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_225.jpg
+data/train/glass/realwaste_glass_train_095.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_47.jpg
+data/train/glass/realwaste_glass_train_096.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_220.jpg
+data/train/glass/realwaste_glass_train_097.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_131.jpg
+data/train/glass/realwaste_glass_train_098.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_148.jpg
+data/train/glass/realwaste_glass_train_099.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_365.jpg
+data/train/glass/realwaste_glass_train_100.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_345.jpg
+data/train/glass/realwaste_glass_train_101.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_324.jpg
+data/train/glass/realwaste_glass_train_102.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_383.jpg
+data/train/glass/realwaste_glass_train_103.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_342.jpg
+data/train/glass/realwaste_glass_train_104.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_139.jpg
+data/train/glass/realwaste_glass_train_105.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_38.jpg
+data/train/glass/realwaste_glass_train_106.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_170.jpg
+data/train/glass/realwaste_glass_train_107.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_33.jpg
+data/train/glass/realwaste_glass_train_108.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_119.jpg
+data/train/glass/realwaste_glass_train_109.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_210.jpg
+data/train/glass/realwaste_glass_train_110.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_391.jpg
+data/train/glass/realwaste_glass_train_111.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_96.jpg
+data/train/glass/realwaste_glass_train_112.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_266.jpg
+data/train/glass/realwaste_glass_train_113.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_23.jpg
+data/train/glass/realwaste_glass_train_114.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_196.jpg
+data/train/glass/realwaste_glass_train_115.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_156.jpg
+data/train/glass/realwaste_glass_train_116.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_154.jpg
+data/train/glass/realwaste_glass_train_117.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_66.jpg
+data/train/glass/realwaste_glass_train_118.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_101.jpg
+data/train/glass/realwaste_glass_train_119.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_22.jpg
+data/train/glass/realwaste_glass_train_120.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_273.jpg
+data/train/glass/realwaste_glass_train_121.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_398.jpg
+data/train/glass/realwaste_glass_train_122.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_12.jpg
+data/train/glass/realwaste_glass_train_123.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_389.jpg
+data/train/glass/realwaste_glass_train_124.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_377.jpg
+data/train/glass/realwaste_glass_train_125.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_249.jpg
+data/train/glass/realwaste_glass_train_126.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_124.jpg
+data/train/glass/realwaste_glass_train_127.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_314.jpg
+data/train/glass/realwaste_glass_train_128.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_236.jpg
+data/train/glass/realwaste_glass_train_129.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_211.jpg
+data/train/glass/realwaste_glass_train_130.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_353.jpg
+data/train/glass/realwaste_glass_train_131.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_110.jpg
+data/train/glass/realwaste_glass_train_132.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_201.jpg
+data/train/glass/realwaste_glass_train_133.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_188.jpg
+data/train/glass/realwaste_glass_train_134.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_221.jpg
+data/train/glass/realwaste_glass_train_135.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_31.jpg
+data/train/glass/realwaste_glass_train_136.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_410.jpg
+data/train/glass/realwaste_glass_train_137.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_99.jpg
+data/train/glass/realwaste_glass_train_138.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_171.jpg
+data/train/glass/realwaste_glass_train_139.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_326.jpg
+data/train/glass/realwaste_glass_train_140.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_214.jpg
+data/train/glass/realwaste_glass_train_141.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_120.jpg
+data/train/glass/realwaste_glass_train_142.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_232.jpg
+data/train/glass/realwaste_glass_train_143.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_129.jpg
+data/train/glass/realwaste_glass_train_144.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_267.jpg
+data/train/glass/realwaste_glass_train_145.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_297.jpg
+data/train/glass/realwaste_glass_train_146.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_20.jpg
+data/train/glass/realwaste_glass_train_147.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_52.jpg
+data/train/glass/realwaste_glass_train_148.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_349.jpg
+data/train/glass/realwaste_glass_train_149.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_30.jpg
+data/train/glass/realwaste_glass_train_150.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_239.jpg
+data/train/glass/realwaste_glass_train_151.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_199.jpg
+data/train/glass/realwaste_glass_train_152.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_16.jpg
+data/train/glass/realwaste_glass_train_153.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_312.jpg
+data/train/glass/realwaste_glass_train_154.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_172.jpg
+data/train/glass/realwaste_glass_train_155.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_203.jpg
+data/train/glass/realwaste_glass_train_156.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_85.jpg
+data/train/glass/realwaste_glass_train_157.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_135.jpg
+data/train/glass/realwaste_glass_train_158.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_103.jpg
+data/train/glass/realwaste_glass_train_159.jpg,train,glass,Glass,realwaste-main/RealWaste/Glass/Glass_88.jpg
+data/val/glass/realwaste_glass_val_000.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_329.jpg
+data/val/glass/realwaste_glass_val_001.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_378.jpg
+data/val/glass/realwaste_glass_val_002.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_338.jpg
+data/val/glass/realwaste_glass_val_003.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_343.jpg
+data/val/glass/realwaste_glass_val_004.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_276.jpg
+data/val/glass/realwaste_glass_val_005.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_285.jpg
+data/val/glass/realwaste_glass_val_006.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_141.jpg
+data/val/glass/realwaste_glass_val_007.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_347.jpg
+data/val/glass/realwaste_glass_val_008.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_145.jpg
+data/val/glass/realwaste_glass_val_009.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_57.jpg
+data/val/glass/realwaste_glass_val_010.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_234.jpg
+data/val/glass/realwaste_glass_val_011.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_60.jpg
+data/val/glass/realwaste_glass_val_012.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_89.jpg
+data/val/glass/realwaste_glass_val_013.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_368.jpg
+data/val/glass/realwaste_glass_val_014.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_181.jpg
+data/val/glass/realwaste_glass_val_015.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_77.jpg
+data/val/glass/realwaste_glass_val_016.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_197.jpg
+data/val/glass/realwaste_glass_val_017.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_394.jpg
+data/val/glass/realwaste_glass_val_018.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_114.jpg
+data/val/glass/realwaste_glass_val_019.jpg,val,glass,Glass,realwaste-main/RealWaste/Glass/Glass_2.jpg
+data/test/glass/realwaste_glass_test_000.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_5.jpg
+data/test/glass/realwaste_glass_test_001.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_90.jpg
+data/test/glass/realwaste_glass_test_002.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_384.jpg
+data/test/glass/realwaste_glass_test_003.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_68.jpg
+data/test/glass/realwaste_glass_test_004.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_206.jpg
+data/test/glass/realwaste_glass_test_005.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_290.jpg
+data/test/glass/realwaste_glass_test_006.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_403.jpg
+data/test/glass/realwaste_glass_test_007.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_346.jpg
+data/test/glass/realwaste_glass_test_008.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_173.jpg
+data/test/glass/realwaste_glass_test_009.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_310.jpg
+data/test/glass/realwaste_glass_test_010.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_190.jpg
+data/test/glass/realwaste_glass_test_011.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_250.jpg
+data/test/glass/realwaste_glass_test_012.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_339.jpg
+data/test/glass/realwaste_glass_test_013.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_294.jpg
+data/test/glass/realwaste_glass_test_014.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_36.jpg
+data/test/glass/realwaste_glass_test_015.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_45.jpg
+data/test/glass/realwaste_glass_test_016.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_174.jpg
+data/test/glass/realwaste_glass_test_017.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_281.jpg
+data/test/glass/realwaste_glass_test_018.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_86.jpg
+data/test/glass/realwaste_glass_test_019.jpg,test,glass,Glass,realwaste-main/RealWaste/Glass/Glass_392.jpg
+data/train/metal/realwaste_metal_train_000.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_681.jpg
+data/train/metal/realwaste_metal_train_001.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_169.jpg
+data/train/metal/realwaste_metal_train_002.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_507.jpg
+data/train/metal/realwaste_metal_train_003.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_81.jpg
+data/train/metal/realwaste_metal_train_004.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_706.jpg
+data/train/metal/realwaste_metal_train_005.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_720.jpg
+data/train/metal/realwaste_metal_train_006.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_521.jpg
+data/train/metal/realwaste_metal_train_007.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_317.jpg
+data/train/metal/realwaste_metal_train_008.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_449.jpg
+data/train/metal/realwaste_metal_train_009.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_773.jpg
+data/train/metal/realwaste_metal_train_010.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_326.jpg
+data/train/metal/realwaste_metal_train_011.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_378.jpg
+data/train/metal/realwaste_metal_train_012.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_220.jpg
+data/train/metal/realwaste_metal_train_013.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_34.jpg
+data/train/metal/realwaste_metal_train_014.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_49.jpg
+data/train/metal/realwaste_metal_train_015.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_268.jpg
+data/train/metal/realwaste_metal_train_016.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_276.jpg
+data/train/metal/realwaste_metal_train_017.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_189.jpg
+data/train/metal/realwaste_metal_train_018.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_198.jpg
+data/train/metal/realwaste_metal_train_019.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_306.jpg
+data/train/metal/realwaste_metal_train_020.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_497.jpg
+data/train/metal/realwaste_metal_train_021.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_748.jpg
+data/train/metal/realwaste_metal_train_022.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_195.jpg
+data/train/metal/realwaste_metal_train_023.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_222.jpg
+data/train/metal/realwaste_metal_train_024.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_670.jpg
+data/train/metal/realwaste_metal_train_025.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_44.jpg
+data/train/metal/realwaste_metal_train_026.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_471.jpg
+data/train/metal/realwaste_metal_train_027.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_53.jpg
+data/train/metal/realwaste_metal_train_028.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_785.jpg
+data/train/metal/realwaste_metal_train_029.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_128.jpg
+data/train/metal/realwaste_metal_train_030.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_2.jpg
+data/train/metal/realwaste_metal_train_031.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_518.jpg
+data/train/metal/realwaste_metal_train_032.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_372.jpg
+data/train/metal/realwaste_metal_train_033.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_319.jpg
+data/train/metal/realwaste_metal_train_034.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_330.jpg
+data/train/metal/realwaste_metal_train_035.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_84.jpg
+data/train/metal/realwaste_metal_train_036.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_597.jpg
+data/train/metal/realwaste_metal_train_037.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_594.jpg
+data/train/metal/realwaste_metal_train_038.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_80.jpg
+data/train/metal/realwaste_metal_train_039.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_464.jpg
+data/train/metal/realwaste_metal_train_040.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_343.jpg
+data/train/metal/realwaste_metal_train_041.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_390.jpg
+data/train/metal/realwaste_metal_train_042.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_486.jpg
+data/train/metal/realwaste_metal_train_043.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_9.jpg
+data/train/metal/realwaste_metal_train_044.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_606.jpg
+data/train/metal/realwaste_metal_train_045.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_707.jpg
+data/train/metal/realwaste_metal_train_046.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_310.jpg
+data/train/metal/realwaste_metal_train_047.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_118.jpg
+data/train/metal/realwaste_metal_train_048.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_637.jpg
+data/train/metal/realwaste_metal_train_049.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_411.jpg
+data/train/metal/realwaste_metal_train_050.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_502.jpg
+data/train/metal/realwaste_metal_train_051.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_145.jpg
+data/train/metal/realwaste_metal_train_052.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_62.jpg
+data/train/metal/realwaste_metal_train_053.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_788.jpg
+data/train/metal/realwaste_metal_train_054.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_786.jpg
+data/train/metal/realwaste_metal_train_055.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_573.jpg
+data/train/metal/realwaste_metal_train_056.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_60.jpg
+data/train/metal/realwaste_metal_train_057.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_699.jpg
+data/train/metal/realwaste_metal_train_058.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_512.jpg
+data/train/metal/realwaste_metal_train_059.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_470.jpg
+data/train/metal/realwaste_metal_train_060.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_751.jpg
+data/train/metal/realwaste_metal_train_061.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_77.jpg
+data/train/metal/realwaste_metal_train_062.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_520.jpg
+data/train/metal/realwaste_metal_train_063.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_611.jpg
+data/train/metal/realwaste_metal_train_064.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_288.jpg
+data/train/metal/realwaste_metal_train_065.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_158.jpg
+data/train/metal/realwaste_metal_train_066.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_184.jpg
+data/train/metal/realwaste_metal_train_067.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_757.jpg
+data/train/metal/realwaste_metal_train_068.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_3.jpg
+data/train/metal/realwaste_metal_train_069.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_587.jpg
+data/train/metal/realwaste_metal_train_070.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_387.jpg
+data/train/metal/realwaste_metal_train_071.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_515.jpg
+data/train/metal/realwaste_metal_train_072.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_618.jpg
+data/train/metal/realwaste_metal_train_073.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_638.jpg
+data/train/metal/realwaste_metal_train_074.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_105.jpg
+data/train/metal/realwaste_metal_train_075.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_153.jpg
+data/train/metal/realwaste_metal_train_076.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_296.jpg
+data/train/metal/realwaste_metal_train_077.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_287.jpg
+data/train/metal/realwaste_metal_train_078.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_389.jpg
+data/train/metal/realwaste_metal_train_079.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_155.jpg
+data/train/metal/realwaste_metal_train_080.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_329.jpg
+data/train/metal/realwaste_metal_train_081.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_467.jpg
+data/train/metal/realwaste_metal_train_082.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_228.jpg
+data/train/metal/realwaste_metal_train_083.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_562.jpg
+data/train/metal/realwaste_metal_train_084.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_318.jpg
+data/train/metal/realwaste_metal_train_085.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_186.jpg
+data/train/metal/realwaste_metal_train_086.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_420.jpg
+data/train/metal/realwaste_metal_train_087.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_735.jpg
+data/train/metal/realwaste_metal_train_088.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_776.jpg
+data/train/metal/realwaste_metal_train_089.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_767.jpg
+data/train/metal/realwaste_metal_train_090.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_55.jpg
+data/train/metal/realwaste_metal_train_091.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_469.jpg
+data/train/metal/realwaste_metal_train_092.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_535.jpg
+data/train/metal/realwaste_metal_train_093.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_107.jpg
+data/train/metal/realwaste_metal_train_094.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_474.jpg
+data/train/metal/realwaste_metal_train_095.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_161.jpg
+data/train/metal/realwaste_metal_train_096.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_21.jpg
+data/train/metal/realwaste_metal_train_097.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_315.jpg
+data/train/metal/realwaste_metal_train_098.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_274.jpg
+data/train/metal/realwaste_metal_train_099.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_22.jpg
+data/train/metal/realwaste_metal_train_100.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_241.jpg
+data/train/metal/realwaste_metal_train_101.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_763.jpg
+data/train/metal/realwaste_metal_train_102.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_92.jpg
+data/train/metal/realwaste_metal_train_103.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_252.jpg
+data/train/metal/realwaste_metal_train_104.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_425.jpg
+data/train/metal/realwaste_metal_train_105.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_727.jpg
+data/train/metal/realwaste_metal_train_106.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_354.jpg
+data/train/metal/realwaste_metal_train_107.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_581.jpg
+data/train/metal/realwaste_metal_train_108.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_624.jpg
+data/train/metal/realwaste_metal_train_109.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_478.jpg
+data/train/metal/realwaste_metal_train_110.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_191.jpg
+data/train/metal/realwaste_metal_train_111.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_209.jpg
+data/train/metal/realwaste_metal_train_112.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_98.jpg
+data/train/metal/realwaste_metal_train_113.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_700.jpg
+data/train/metal/realwaste_metal_train_114.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_359.jpg
+data/train/metal/realwaste_metal_train_115.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_539.jpg
+data/train/metal/realwaste_metal_train_116.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_270.jpg
+data/train/metal/realwaste_metal_train_117.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_760.jpg
+data/train/metal/realwaste_metal_train_118.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_151.jpg
+data/train/metal/realwaste_metal_train_119.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_772.jpg
+data/train/metal/realwaste_metal_train_120.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_112.jpg
+data/train/metal/realwaste_metal_train_121.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_568.jpg
+data/train/metal/realwaste_metal_train_122.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_166.jpg
+data/train/metal/realwaste_metal_train_123.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_293.jpg
+data/train/metal/realwaste_metal_train_124.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_566.jpg
+data/train/metal/realwaste_metal_train_125.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_72.jpg
+data/train/metal/realwaste_metal_train_126.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_31.jpg
+data/train/metal/realwaste_metal_train_127.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_375.jpg
+data/train/metal/realwaste_metal_train_128.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_648.jpg
+data/train/metal/realwaste_metal_train_129.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_695.jpg
+data/train/metal/realwaste_metal_train_130.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_677.jpg
+data/train/metal/realwaste_metal_train_131.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_106.jpg
+data/train/metal/realwaste_metal_train_132.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_630.jpg
+data/train/metal/realwaste_metal_train_133.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_625.jpg
+data/train/metal/realwaste_metal_train_134.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_322.jpg
+data/train/metal/realwaste_metal_train_135.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_548.jpg
+data/train/metal/realwaste_metal_train_136.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_647.jpg
+data/train/metal/realwaste_metal_train_137.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_19.jpg
+data/train/metal/realwaste_metal_train_138.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_716.jpg
+data/train/metal/realwaste_metal_train_139.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_152.jpg
+data/train/metal/realwaste_metal_train_140.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_250.jpg
+data/train/metal/realwaste_metal_train_141.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_542.jpg
+data/train/metal/realwaste_metal_train_142.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_778.jpg
+data/train/metal/realwaste_metal_train_143.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_327.jpg
+data/train/metal/realwaste_metal_train_144.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_70.jpg
+data/train/metal/realwaste_metal_train_145.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_101.jpg
+data/train/metal/realwaste_metal_train_146.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_718.jpg
+data/train/metal/realwaste_metal_train_147.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_525.jpg
+data/train/metal/realwaste_metal_train_148.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_766.jpg
+data/train/metal/realwaste_metal_train_149.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_753.jpg
+data/train/metal/realwaste_metal_train_150.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_35.jpg
+data/train/metal/realwaste_metal_train_151.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_205.jpg
+data/train/metal/realwaste_metal_train_152.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_633.jpg
+data/train/metal/realwaste_metal_train_153.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_301.jpg
+data/train/metal/realwaste_metal_train_154.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_149.jpg
+data/train/metal/realwaste_metal_train_155.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_489.jpg
+data/train/metal/realwaste_metal_train_156.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_701.jpg
+data/train/metal/realwaste_metal_train_157.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_410.jpg
+data/train/metal/realwaste_metal_train_158.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_415.jpg
+data/train/metal/realwaste_metal_train_159.jpg,train,metal,Metal,realwaste-main/RealWaste/Metal/Metal_174.jpg
+data/val/metal/realwaste_metal_val_000.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_173.jpg
+data/val/metal/realwaste_metal_val_001.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_595.jpg
+data/val/metal/realwaste_metal_val_002.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_14.jpg
+data/val/metal/realwaste_metal_val_003.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_146.jpg
+data/val/metal/realwaste_metal_val_004.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_135.jpg
+data/val/metal/realwaste_metal_val_005.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_242.jpg
+data/val/metal/realwaste_metal_val_006.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_61.jpg
+data/val/metal/realwaste_metal_val_007.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_565.jpg
+data/val/metal/realwaste_metal_val_008.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_362.jpg
+data/val/metal/realwaste_metal_val_009.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_167.jpg
+data/val/metal/realwaste_metal_val_010.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_185.jpg
+data/val/metal/realwaste_metal_val_011.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_328.jpg
+data/val/metal/realwaste_metal_val_012.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_589.jpg
+data/val/metal/realwaste_metal_val_013.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_641.jpg
+data/val/metal/realwaste_metal_val_014.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_297.jpg
+data/val/metal/realwaste_metal_val_015.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_324.jpg
+data/val/metal/realwaste_metal_val_016.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_709.jpg
+data/val/metal/realwaste_metal_val_017.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_356.jpg
+data/val/metal/realwaste_metal_val_018.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_284.jpg
+data/val/metal/realwaste_metal_val_019.jpg,val,metal,Metal,realwaste-main/RealWaste/Metal/Metal_736.jpg
+data/test/metal/realwaste_metal_test_000.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_632.jpg
+data/test/metal/realwaste_metal_test_001.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_609.jpg
+data/test/metal/realwaste_metal_test_002.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_6.jpg
+data/test/metal/realwaste_metal_test_003.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_164.jpg
+data/test/metal/realwaste_metal_test_004.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_598.jpg
+data/test/metal/realwaste_metal_test_005.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_376.jpg
+data/test/metal/realwaste_metal_test_006.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_783.jpg
+data/test/metal/realwaste_metal_test_007.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_403.jpg
+data/test/metal/realwaste_metal_test_008.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_443.jpg
+data/test/metal/realwaste_metal_test_009.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_162.jpg
+data/test/metal/realwaste_metal_test_010.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_547.jpg
+data/test/metal/realwaste_metal_test_011.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_697.jpg
+data/test/metal/realwaste_metal_test_012.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_361.jpg
+data/test/metal/realwaste_metal_test_013.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_459.jpg
+data/test/metal/realwaste_metal_test_014.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_100.jpg
+data/test/metal/realwaste_metal_test_015.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_342.jpg
+data/test/metal/realwaste_metal_test_016.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_244.jpg
+data/test/metal/realwaste_metal_test_017.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_696.jpg
+data/test/metal/realwaste_metal_test_018.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_754.jpg
+data/test/metal/realwaste_metal_test_019.jpg,test,metal,Metal,realwaste-main/RealWaste/Metal/Metal_576.jpg
+data/train/organic/realwaste_organic_train_000.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_78.jpg
+data/train/organic/realwaste_organic_train_001.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_336.jpg
+data/train/organic/realwaste_organic_train_002.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_219.jpg
+data/train/organic/realwaste_organic_train_003.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_377.jpg
+data/train/organic/realwaste_organic_train_004.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_120.jpg
+data/train/organic/realwaste_organic_train_005.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_264.jpg
+data/train/organic/realwaste_organic_train_006.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_68.jpg
+data/train/organic/realwaste_organic_train_007.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_149.jpg
+data/train/organic/realwaste_organic_train_008.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_355.jpg
+data/train/organic/realwaste_organic_train_009.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_389.jpg
+data/train/organic/realwaste_organic_train_010.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_300.jpg
+data/train/organic/realwaste_organic_train_011.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_105.jpg
+data/train/organic/realwaste_organic_train_012.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_341.jpg
+data/train/organic/realwaste_organic_train_013.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_34.jpg
+data/train/organic/realwaste_organic_train_014.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_376.jpg
+data/train/organic/realwaste_organic_train_015.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_26.jpg
+data/train/organic/realwaste_organic_train_016.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_121.jpg
+data/train/organic/realwaste_organic_train_017.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_213.jpg
+data/train/organic/realwaste_organic_train_018.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_371.jpg
+data/train/organic/realwaste_organic_train_019.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_158.jpg
+data/train/organic/realwaste_organic_train_020.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_203.jpg
+data/train/organic/realwaste_organic_train_021.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_246.jpg
+data/train/organic/realwaste_organic_train_022.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_10.jpg
+data/train/organic/realwaste_organic_train_023.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_7.jpg
+data/train/organic/realwaste_organic_train_024.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_405.jpg
+data/train/organic/realwaste_organic_train_025.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_47.jpg
+data/train/organic/realwaste_organic_train_026.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_323.jpg
+data/train/organic/realwaste_organic_train_027.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_120.jpg
+data/train/organic/realwaste_organic_train_028.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_216.jpg
+data/train/organic/realwaste_organic_train_029.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_157.jpg
+data/train/organic/realwaste_organic_train_030.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_408.jpg
+data/train/organic/realwaste_organic_train_031.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_235.jpg
+data/train/organic/realwaste_organic_train_032.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_1.jpg
+data/train/organic/realwaste_organic_train_033.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_130.jpg
+data/train/organic/realwaste_organic_train_034.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_238.jpg
+data/train/organic/realwaste_organic_train_035.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_55.jpg
+data/train/organic/realwaste_organic_train_036.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_185.jpg
+data/train/organic/realwaste_organic_train_037.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_98.jpg
+data/train/organic/realwaste_organic_train_038.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_288.jpg
+data/train/organic/realwaste_organic_train_039.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_126.jpg
+data/train/organic/realwaste_organic_train_040.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_274.jpg
+data/train/organic/realwaste_organic_train_041.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_303.jpg
+data/train/organic/realwaste_organic_train_042.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_260.jpg
+data/train/organic/realwaste_organic_train_043.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_347.jpg
+data/train/organic/realwaste_organic_train_044.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_262.jpg
+data/train/organic/realwaste_organic_train_045.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_401.jpg
+data/train/organic/realwaste_organic_train_046.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_279.jpg
+data/train/organic/realwaste_organic_train_047.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_40.jpg
+data/train/organic/realwaste_organic_train_048.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_59.jpg
+data/train/organic/realwaste_organic_train_049.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_283.jpg
+data/train/organic/realwaste_organic_train_050.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_343.jpg
+data/train/organic/realwaste_organic_train_051.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_165.jpg
+data/train/organic/realwaste_organic_train_052.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_404.jpg
+data/train/organic/realwaste_organic_train_053.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_241.jpg
+data/train/organic/realwaste_organic_train_054.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_44.jpg
+data/train/organic/realwaste_organic_train_055.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_304.jpg
+data/train/organic/realwaste_organic_train_056.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_266.jpg
+data/train/organic/realwaste_organic_train_057.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_110.jpg
+data/train/organic/realwaste_organic_train_058.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_64.jpg
+data/train/organic/realwaste_organic_train_059.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_383.jpg
+data/train/organic/realwaste_organic_train_060.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_315.jpg
+data/train/organic/realwaste_organic_train_061.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_282.jpg
+data/train/organic/realwaste_organic_train_062.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_97.jpg
+data/train/organic/realwaste_organic_train_063.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_317.jpg
+data/train/organic/realwaste_organic_train_064.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_419.jpg
+data/train/organic/realwaste_organic_train_065.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_135.jpg
+data/train/organic/realwaste_organic_train_066.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_225.jpg
+data/train/organic/realwaste_organic_train_067.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_292.jpg
+data/train/organic/realwaste_organic_train_068.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_65.jpg
+data/train/organic/realwaste_organic_train_069.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_404.jpg
+data/train/organic/realwaste_organic_train_070.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_92.jpg
+data/train/organic/realwaste_organic_train_071.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_38.jpg
+data/train/organic/realwaste_organic_train_072.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_208.jpg
+data/train/organic/realwaste_organic_train_073.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_166.jpg
+data/train/organic/realwaste_organic_train_074.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_297.jpg
+data/train/organic/realwaste_organic_train_075.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_340.jpg
+data/train/organic/realwaste_organic_train_076.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_424.jpg
+data/train/organic/realwaste_organic_train_077.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_177.jpg
+data/train/organic/realwaste_organic_train_078.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_14.jpg
+data/train/organic/realwaste_organic_train_079.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_73.jpg
+data/train/organic/realwaste_organic_train_080.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_356.jpg
+data/train/organic/realwaste_organic_train_081.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_199.jpg
+data/train/organic/realwaste_organic_train_082.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_194.jpg
+data/train/organic/realwaste_organic_train_083.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_197.jpg
+data/train/organic/realwaste_organic_train_084.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_403.jpg
+data/train/organic/realwaste_organic_train_085.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_131.jpg
+data/train/organic/realwaste_organic_train_086.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_52.jpg
+data/train/organic/realwaste_organic_train_087.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_42.jpg
+data/train/organic/realwaste_organic_train_088.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_122.jpg
+data/train/organic/realwaste_organic_train_089.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_38.jpg
+data/train/organic/realwaste_organic_train_090.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_246.jpg
+data/train/organic/realwaste_organic_train_091.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_396.jpg
+data/train/organic/realwaste_organic_train_092.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_362.jpg
+data/train/organic/realwaste_organic_train_093.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_263.jpg
+data/train/organic/realwaste_organic_train_094.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_401.jpg
+data/train/organic/realwaste_organic_train_095.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_108.jpg
+data/train/organic/realwaste_organic_train_096.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_162.jpg
+data/train/organic/realwaste_organic_train_097.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_136.jpg
+data/train/organic/realwaste_organic_train_098.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_24.jpg
+data/train/organic/realwaste_organic_train_099.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_10.jpg
+data/train/organic/realwaste_organic_train_100.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_199.jpg
+data/train/organic/realwaste_organic_train_101.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_245.jpg
+data/train/organic/realwaste_organic_train_102.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_380.jpg
+data/train/organic/realwaste_organic_train_103.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_289.jpg
+data/train/organic/realwaste_organic_train_104.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_414.jpg
+data/train/organic/realwaste_organic_train_105.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_129.jpg
+data/train/organic/realwaste_organic_train_106.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_351.jpg
+data/train/organic/realwaste_organic_train_107.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_32.jpg
+data/train/organic/realwaste_organic_train_108.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_116.jpg
+data/train/organic/realwaste_organic_train_109.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_145.jpg
+data/train/organic/realwaste_organic_train_110.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_255.jpg
+data/train/organic/realwaste_organic_train_111.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_201.jpg
+data/train/organic/realwaste_organic_train_112.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_163.jpg
+data/train/organic/realwaste_organic_train_113.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_51.jpg
+data/train/organic/realwaste_organic_train_114.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_109.jpg
+data/train/organic/realwaste_organic_train_115.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_206.jpg
+data/train/organic/realwaste_organic_train_116.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_376.jpg
+data/train/organic/realwaste_organic_train_117.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_371.jpg
+data/train/organic/realwaste_organic_train_118.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_103.jpg
+data/train/organic/realwaste_organic_train_119.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_400.jpg
+data/train/organic/realwaste_organic_train_120.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_169.jpg
+data/train/organic/realwaste_organic_train_121.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_309.jpg
+data/train/organic/realwaste_organic_train_122.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_363.jpg
+data/train/organic/realwaste_organic_train_123.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_185.jpg
+data/train/organic/realwaste_organic_train_124.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_236.jpg
+data/train/organic/realwaste_organic_train_125.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_276.jpg
+data/train/organic/realwaste_organic_train_126.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_77.jpg
+data/train/organic/realwaste_organic_train_127.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_386.jpg
+data/train/organic/realwaste_organic_train_128.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_340.jpg
+data/train/organic/realwaste_organic_train_129.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_223.jpg
+data/train/organic/realwaste_organic_train_130.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_306.jpg
+data/train/organic/realwaste_organic_train_131.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_312.jpg
+data/train/organic/realwaste_organic_train_132.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_316.jpg
+data/train/organic/realwaste_organic_train_133.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_408.jpg
+data/train/organic/realwaste_organic_train_134.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_412.jpg
+data/train/organic/realwaste_organic_train_135.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_70.jpg
+data/train/organic/realwaste_organic_train_136.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_249.jpg
+data/train/organic/realwaste_organic_train_137.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_153.jpg
+data/train/organic/realwaste_organic_train_138.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_198.jpg
+data/train/organic/realwaste_organic_train_139.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_329.jpg
+data/train/organic/realwaste_organic_train_140.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_102.jpg
+data/train/organic/realwaste_organic_train_141.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_360.jpg
+data/train/organic/realwaste_organic_train_142.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_406.jpg
+data/train/organic/realwaste_organic_train_143.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_55.jpg
+data/train/organic/realwaste_organic_train_144.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_124.jpg
+data/train/organic/realwaste_organic_train_145.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_81.jpg
+data/train/organic/realwaste_organic_train_146.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_56.jpg
+data/train/organic/realwaste_organic_train_147.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_406.jpg
+data/train/organic/realwaste_organic_train_148.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_253.jpg
+data/train/organic/realwaste_organic_train_149.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_231.jpg
+data/train/organic/realwaste_organic_train_150.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_346.jpg
+data/train/organic/realwaste_organic_train_151.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_234.jpg
+data/train/organic/realwaste_organic_train_152.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_358.jpg
+data/train/organic/realwaste_organic_train_153.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_303.jpg
+data/train/organic/realwaste_organic_train_154.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_205.jpg
+data/train/organic/realwaste_organic_train_155.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_107.jpg
+data/train/organic/realwaste_organic_train_156.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_248.jpg
+data/train/organic/realwaste_organic_train_157.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_332.jpg
+data/train/organic/realwaste_organic_train_158.jpg,train,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_328.jpg
+data/train/organic/realwaste_organic_train_159.jpg,train,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_125.jpg
+data/val/organic/realwaste_organic_val_000.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_261.jpg
+data/val/organic/realwaste_organic_val_001.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_293.jpg
+data/val/organic/realwaste_organic_val_002.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_264.jpg
+data/val/organic/realwaste_organic_val_003.jpg,val,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_337.jpg
+data/val/organic/realwaste_organic_val_004.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_84.jpg
+data/val/organic/realwaste_organic_val_005.jpg,val,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_366.jpg
+data/val/organic/realwaste_organic_val_006.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_2.jpg
+data/val/organic/realwaste_organic_val_007.jpg,val,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_396.jpg
+data/val/organic/realwaste_organic_val_008.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_26.jpg
+data/val/organic/realwaste_organic_val_009.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_324.jpg
+data/val/organic/realwaste_organic_val_010.jpg,val,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_309.jpg
+data/val/organic/realwaste_organic_val_011.jpg,val,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_279.jpg
+data/val/organic/realwaste_organic_val_012.jpg,val,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_242.jpg
+data/val/organic/realwaste_organic_val_013.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_234.jpg
+data/val/organic/realwaste_organic_val_014.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_280.jpg
+data/val/organic/realwaste_organic_val_015.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_345.jpg
+data/val/organic/realwaste_organic_val_016.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_300.jpg
+data/val/organic/realwaste_organic_val_017.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_141.jpg
+data/val/organic/realwaste_organic_val_018.jpg,val,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_237.jpg
+data/val/organic/realwaste_organic_val_019.jpg,val,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_277.jpg
+data/test/organic/realwaste_organic_test_000.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_333.jpg
+data/test/organic/realwaste_organic_test_001.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_296.jpg
+data/test/organic/realwaste_organic_test_002.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_384.jpg
+data/test/organic/realwaste_organic_test_003.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_137.jpg
+data/test/organic/realwaste_organic_test_004.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_30.jpg
+data/test/organic/realwaste_organic_test_005.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_382.jpg
+data/test/organic/realwaste_organic_test_006.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_103.jpg
+data/test/organic/realwaste_organic_test_007.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_83.jpg
+data/test/organic/realwaste_organic_test_008.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_263.jpg
+data/test/organic/realwaste_organic_test_009.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_403.jpg
+data/test/organic/realwaste_organic_test_010.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_353.jpg
+data/test/organic/realwaste_organic_test_011.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_167.jpg
+data/test/organic/realwaste_organic_test_012.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_79.jpg
+data/test/organic/realwaste_organic_test_013.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_385.jpg
+data/test/organic/realwaste_organic_test_014.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_47.jpg
+data/test/organic/realwaste_organic_test_015.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_423.jpg
+data/test/organic/realwaste_organic_test_016.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_20.jpg
+data/test/organic/realwaste_organic_test_017.jpg,test,organic,Vegetation,realwaste-main/RealWaste/Vegetation/Vegetation_343.jpg
+data/test/organic/realwaste_organic_test_018.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_79.jpg
+data/test/organic/realwaste_organic_test_019.jpg,test,organic,Food Organics,realwaste-main/RealWaste/Food Organics/Food Organics_134.jpg
+data/train/paper/realwaste_paper_train_000.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_45.jpg
+data/train/paper/realwaste_paper_train_001.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_158.jpg
+data/train/paper/realwaste_paper_train_002.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_39.jpg
+data/train/paper/realwaste_paper_train_003.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_102.jpg
+data/train/paper/realwaste_paper_train_004.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_422.jpg
+data/train/paper/realwaste_paper_train_005.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_92.jpg
+data/train/paper/realwaste_paper_train_006.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_25.jpg
+data/train/paper/realwaste_paper_train_007.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_251.jpg
+data/train/paper/realwaste_paper_train_008.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_210.jpg
+data/train/paper/realwaste_paper_train_009.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_386.jpg
+data/train/paper/realwaste_paper_train_010.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_329.jpg
+data/train/paper/realwaste_paper_train_011.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_180.jpg
+data/train/paper/realwaste_paper_train_012.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_3.jpg
+data/train/paper/realwaste_paper_train_013.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_338.jpg
+data/train/paper/realwaste_paper_train_014.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_199.jpg
+data/train/paper/realwaste_paper_train_015.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_24.jpg
+data/train/paper/realwaste_paper_train_016.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_245.jpg
+data/train/paper/realwaste_paper_train_017.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_327.jpg
+data/train/paper/realwaste_paper_train_018.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_60.jpg
+data/train/paper/realwaste_paper_train_019.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_95.jpg
+data/train/paper/realwaste_paper_train_020.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_377.jpg
+data/train/paper/realwaste_paper_train_021.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_45.jpg
+data/train/paper/realwaste_paper_train_022.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_104.jpg
+data/train/paper/realwaste_paper_train_023.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_181.jpg
+data/train/paper/realwaste_paper_train_024.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_295.jpg
+data/train/paper/realwaste_paper_train_025.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_169.jpg
+data/train/paper/realwaste_paper_train_026.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_421.jpg
+data/train/paper/realwaste_paper_train_027.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_335.jpg
+data/train/paper/realwaste_paper_train_028.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_355.jpg
+data/train/paper/realwaste_paper_train_029.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_449.jpg
+data/train/paper/realwaste_paper_train_030.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_136.jpg
+data/train/paper/realwaste_paper_train_031.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_387.jpg
+data/train/paper/realwaste_paper_train_032.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_56.jpg
+data/train/paper/realwaste_paper_train_033.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_403.jpg
+data/train/paper/realwaste_paper_train_034.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_444.jpg
+data/train/paper/realwaste_paper_train_035.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_300.jpg
+data/train/paper/realwaste_paper_train_036.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_243.jpg
+data/train/paper/realwaste_paper_train_037.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_311.jpg
+data/train/paper/realwaste_paper_train_038.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_294.jpg
+data/train/paper/realwaste_paper_train_039.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_217.jpg
+data/train/paper/realwaste_paper_train_040.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_445.jpg
+data/train/paper/realwaste_paper_train_041.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_373.jpg
+data/train/paper/realwaste_paper_train_042.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_482.jpg
+data/train/paper/realwaste_paper_train_043.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_341.jpg
+data/train/paper/realwaste_paper_train_044.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_431.jpg
+data/train/paper/realwaste_paper_train_045.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_222.jpg
+data/train/paper/realwaste_paper_train_046.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_133.jpg
+data/train/paper/realwaste_paper_train_047.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_122.jpg
+data/train/paper/realwaste_paper_train_048.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_176.jpg
+data/train/paper/realwaste_paper_train_049.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_23.jpg
+data/train/paper/realwaste_paper_train_050.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_203.jpg
+data/train/paper/realwaste_paper_train_051.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_315.jpg
+data/train/paper/realwaste_paper_train_052.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_323.jpg
+data/train/paper/realwaste_paper_train_053.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_104.jpg
+data/train/paper/realwaste_paper_train_054.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_114.jpg
+data/train/paper/realwaste_paper_train_055.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_174.jpg
+data/train/paper/realwaste_paper_train_056.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_223.jpg
+data/train/paper/realwaste_paper_train_057.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_297.jpg
+data/train/paper/realwaste_paper_train_058.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_390.jpg
+data/train/paper/realwaste_paper_train_059.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_331.jpg
+data/train/paper/realwaste_paper_train_060.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_215.jpg
+data/train/paper/realwaste_paper_train_061.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_109.jpg
+data/train/paper/realwaste_paper_train_062.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_47.jpg
+data/train/paper/realwaste_paper_train_063.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_442.jpg
+data/train/paper/realwaste_paper_train_064.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_112.jpg
+data/train/paper/realwaste_paper_train_065.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_347.jpg
+data/train/paper/realwaste_paper_train_066.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_156.jpg
+data/train/paper/realwaste_paper_train_067.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_339.jpg
+data/train/paper/realwaste_paper_train_068.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_19.jpg
+data/train/paper/realwaste_paper_train_069.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_147.jpg
+data/train/paper/realwaste_paper_train_070.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_350.jpg
+data/train/paper/realwaste_paper_train_071.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_301.jpg
+data/train/paper/realwaste_paper_train_072.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_329.jpg
+data/train/paper/realwaste_paper_train_073.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_97.jpg
+data/train/paper/realwaste_paper_train_074.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_361.jpg
+data/train/paper/realwaste_paper_train_075.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_261.jpg
+data/train/paper/realwaste_paper_train_076.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_421.jpg
+data/train/paper/realwaste_paper_train_077.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_319.jpg
+data/train/paper/realwaste_paper_train_078.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_204.jpg
+data/train/paper/realwaste_paper_train_079.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_258.jpg
+data/train/paper/realwaste_paper_train_080.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_2.jpg
+data/train/paper/realwaste_paper_train_081.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_184.jpg
+data/train/paper/realwaste_paper_train_082.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_346.jpg
+data/train/paper/realwaste_paper_train_083.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_394.jpg
+data/train/paper/realwaste_paper_train_084.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_242.jpg
+data/train/paper/realwaste_paper_train_085.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_99.jpg
+data/train/paper/realwaste_paper_train_086.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_441.jpg
+data/train/paper/realwaste_paper_train_087.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_127.jpg
+data/train/paper/realwaste_paper_train_088.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_117.jpg
+data/train/paper/realwaste_paper_train_089.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_343.jpg
+data/train/paper/realwaste_paper_train_090.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_283.jpg
+data/train/paper/realwaste_paper_train_091.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_72.jpg
+data/train/paper/realwaste_paper_train_092.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_391.jpg
+data/train/paper/realwaste_paper_train_093.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_308.jpg
+data/train/paper/realwaste_paper_train_094.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_130.jpg
+data/train/paper/realwaste_paper_train_095.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_57.jpg
+data/train/paper/realwaste_paper_train_096.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_476.jpg
+data/train/paper/realwaste_paper_train_097.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_72.jpg
+data/train/paper/realwaste_paper_train_098.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_354.jpg
+data/train/paper/realwaste_paper_train_099.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_182.jpg
+data/train/paper/realwaste_paper_train_100.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_214.jpg
+data/train/paper/realwaste_paper_train_101.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_277.jpg
+data/train/paper/realwaste_paper_train_102.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_408.jpg
+data/train/paper/realwaste_paper_train_103.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_409.jpg
+data/train/paper/realwaste_paper_train_104.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_386.jpg
+data/train/paper/realwaste_paper_train_105.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_71.jpg
+data/train/paper/realwaste_paper_train_106.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_300.jpg
+data/train/paper/realwaste_paper_train_107.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_176.jpg
+data/train/paper/realwaste_paper_train_108.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_452.jpg
+data/train/paper/realwaste_paper_train_109.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_466.jpg
+data/train/paper/realwaste_paper_train_110.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_285.jpg
+data/train/paper/realwaste_paper_train_111.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_221.jpg
+data/train/paper/realwaste_paper_train_112.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_439.jpg
+data/train/paper/realwaste_paper_train_113.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_145.jpg
+data/train/paper/realwaste_paper_train_114.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_35.jpg
+data/train/paper/realwaste_paper_train_115.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_173.jpg
+data/train/paper/realwaste_paper_train_116.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_9.jpg
+data/train/paper/realwaste_paper_train_117.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_125.jpg
+data/train/paper/realwaste_paper_train_118.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_423.jpg
+data/train/paper/realwaste_paper_train_119.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_68.jpg
+data/train/paper/realwaste_paper_train_120.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_29.jpg
+data/train/paper/realwaste_paper_train_121.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_66.jpg
+data/train/paper/realwaste_paper_train_122.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_162.jpg
+data/train/paper/realwaste_paper_train_123.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_70.jpg
+data/train/paper/realwaste_paper_train_124.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_113.jpg
+data/train/paper/realwaste_paper_train_125.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_362.jpg
+data/train/paper/realwaste_paper_train_126.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_249.jpg
+data/train/paper/realwaste_paper_train_127.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_352.jpg
+data/train/paper/realwaste_paper_train_128.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_305.jpg
+data/train/paper/realwaste_paper_train_129.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_267.jpg
+data/train/paper/realwaste_paper_train_130.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_378.jpg
+data/train/paper/realwaste_paper_train_131.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_121.jpg
+data/train/paper/realwaste_paper_train_132.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_335.jpg
+data/train/paper/realwaste_paper_train_133.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_458.jpg
+data/train/paper/realwaste_paper_train_134.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_6.jpg
+data/train/paper/realwaste_paper_train_135.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_459.jpg
+data/train/paper/realwaste_paper_train_136.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_173.jpg
+data/train/paper/realwaste_paper_train_137.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_325.jpg
+data/train/paper/realwaste_paper_train_138.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_394.jpg
+data/train/paper/realwaste_paper_train_139.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_282.jpg
+data/train/paper/realwaste_paper_train_140.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_55.jpg
+data/train/paper/realwaste_paper_train_141.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_86.jpg
+data/train/paper/realwaste_paper_train_142.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_238.jpg
+data/train/paper/realwaste_paper_train_143.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_232.jpg
+data/train/paper/realwaste_paper_train_144.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_117.jpg
+data/train/paper/realwaste_paper_train_145.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_40.jpg
+data/train/paper/realwaste_paper_train_146.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_12.jpg
+data/train/paper/realwaste_paper_train_147.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_451.jpg
+data/train/paper/realwaste_paper_train_148.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_37.jpg
+data/train/paper/realwaste_paper_train_149.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_351.jpg
+data/train/paper/realwaste_paper_train_150.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_459.jpg
+data/train/paper/realwaste_paper_train_151.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_479.jpg
+data/train/paper/realwaste_paper_train_152.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_400.jpg
+data/train/paper/realwaste_paper_train_153.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_322.jpg
+data/train/paper/realwaste_paper_train_154.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_495.jpg
+data/train/paper/realwaste_paper_train_155.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_30.jpg
+data/train/paper/realwaste_paper_train_156.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_257.jpg
+data/train/paper/realwaste_paper_train_157.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_38.jpg
+data/train/paper/realwaste_paper_train_158.jpg,train,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_79.jpg
+data/train/paper/realwaste_paper_train_159.jpg,train,paper,Paper,realwaste-main/RealWaste/Paper/Paper_42.jpg
+data/val/paper/realwaste_paper_val_000.jpg,val,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_216.jpg
+data/val/paper/realwaste_paper_val_001.jpg,val,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_193.jpg
+data/val/paper/realwaste_paper_val_002.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_149.jpg
+data/val/paper/realwaste_paper_val_003.jpg,val,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_391.jpg
+data/val/paper/realwaste_paper_val_004.jpg,val,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_283.jpg
+data/val/paper/realwaste_paper_val_005.jpg,val,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_253.jpg
+data/val/paper/realwaste_paper_val_006.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_400.jpg
+data/val/paper/realwaste_paper_val_007.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_380.jpg
+data/val/paper/realwaste_paper_val_008.jpg,val,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_77.jpg
+data/val/paper/realwaste_paper_val_009.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_403.jpg
+data/val/paper/realwaste_paper_val_010.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_375.jpg
+data/val/paper/realwaste_paper_val_011.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_123.jpg
+data/val/paper/realwaste_paper_val_012.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_320.jpg
+data/val/paper/realwaste_paper_val_013.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_188.jpg
+data/val/paper/realwaste_paper_val_014.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_164.jpg
+data/val/paper/realwaste_paper_val_015.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_379.jpg
+data/val/paper/realwaste_paper_val_016.jpg,val,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_123.jpg
+data/val/paper/realwaste_paper_val_017.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_31.jpg
+data/val/paper/realwaste_paper_val_018.jpg,val,paper,Paper,realwaste-main/RealWaste/Paper/Paper_24.jpg
+data/val/paper/realwaste_paper_val_019.jpg,val,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_226.jpg
+data/test/paper/realwaste_paper_test_000.jpg,test,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_41.jpg
+data/test/paper/realwaste_paper_test_001.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_7.jpg
+data/test/paper/realwaste_paper_test_002.jpg,test,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_377.jpg
+data/test/paper/realwaste_paper_test_003.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_6.jpg
+data/test/paper/realwaste_paper_test_004.jpg,test,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_5.jpg
+data/test/paper/realwaste_paper_test_005.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_435.jpg
+data/test/paper/realwaste_paper_test_006.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_131.jpg
+data/test/paper/realwaste_paper_test_007.jpg,test,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_30.jpg
+data/test/paper/realwaste_paper_test_008.jpg,test,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_116.jpg
+data/test/paper/realwaste_paper_test_009.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_271.jpg
+data/test/paper/realwaste_paper_test_010.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_326.jpg
+data/test/paper/realwaste_paper_test_011.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_8.jpg
+data/test/paper/realwaste_paper_test_012.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_454.jpg
+data/test/paper/realwaste_paper_test_013.jpg,test,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_374.jpg
+data/test/paper/realwaste_paper_test_014.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_474.jpg
+data/test/paper/realwaste_paper_test_015.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_262.jpg
+data/test/paper/realwaste_paper_test_016.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_4.jpg
+data/test/paper/realwaste_paper_test_017.jpg,test,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_67.jpg
+data/test/paper/realwaste_paper_test_018.jpg,test,paper,Cardboard,realwaste-main/RealWaste/Cardboard/Cardboard_170.jpg
+data/test/paper/realwaste_paper_test_019.jpg,test,paper,Paper,realwaste-main/RealWaste/Paper/Paper_111.jpg
+data/train/plastic/realwaste_plastic_train_000.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_494.jpg
+data/train/plastic/realwaste_plastic_train_001.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_609.jpg
+data/train/plastic/realwaste_plastic_train_002.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_370.jpg
+data/train/plastic/realwaste_plastic_train_003.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_862.jpg
+data/train/plastic/realwaste_plastic_train_004.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_179.jpg
+data/train/plastic/realwaste_plastic_train_005.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_528.jpg
+data/train/plastic/realwaste_plastic_train_006.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_709.jpg
+data/train/plastic/realwaste_plastic_train_007.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_863.jpg
+data/train/plastic/realwaste_plastic_train_008.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_500.jpg
+data/train/plastic/realwaste_plastic_train_009.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_746.jpg
+data/train/plastic/realwaste_plastic_train_010.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_236.jpg
+data/train/plastic/realwaste_plastic_train_011.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_618.jpg
+data/train/plastic/realwaste_plastic_train_012.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_763.jpg
+data/train/plastic/realwaste_plastic_train_013.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_194.jpg
+data/train/plastic/realwaste_plastic_train_014.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_149.jpg
+data/train/plastic/realwaste_plastic_train_015.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_483.jpg
+data/train/plastic/realwaste_plastic_train_016.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_834.jpg
+data/train/plastic/realwaste_plastic_train_017.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_820.jpg
+data/train/plastic/realwaste_plastic_train_018.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_83.jpg
+data/train/plastic/realwaste_plastic_train_019.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_372.jpg
+data/train/plastic/realwaste_plastic_train_020.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_531.jpg
+data/train/plastic/realwaste_plastic_train_021.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_277.jpg
+data/train/plastic/realwaste_plastic_train_022.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_311.jpg
+data/train/plastic/realwaste_plastic_train_023.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_773.jpg
+data/train/plastic/realwaste_plastic_train_024.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_381.jpg
+data/train/plastic/realwaste_plastic_train_025.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_505.jpg
+data/train/plastic/realwaste_plastic_train_026.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_545.jpg
+data/train/plastic/realwaste_plastic_train_027.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_412.jpg
+data/train/plastic/realwaste_plastic_train_028.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_50.jpg
+data/train/plastic/realwaste_plastic_train_029.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_667.jpg
+data/train/plastic/realwaste_plastic_train_030.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_865.jpg
+data/train/plastic/realwaste_plastic_train_031.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_883.jpg
+data/train/plastic/realwaste_plastic_train_032.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_267.jpg
+data/train/plastic/realwaste_plastic_train_033.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_38.jpg
+data/train/plastic/realwaste_plastic_train_034.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_911.jpg
+data/train/plastic/realwaste_plastic_train_035.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_68.jpg
+data/train/plastic/realwaste_plastic_train_036.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_688.jpg
+data/train/plastic/realwaste_plastic_train_037.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_652.jpg
+data/train/plastic/realwaste_plastic_train_038.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_137.jpg
+data/train/plastic/realwaste_plastic_train_039.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_801.jpg
+data/train/plastic/realwaste_plastic_train_040.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_784.jpg
+data/train/plastic/realwaste_plastic_train_041.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_764.jpg
+data/train/plastic/realwaste_plastic_train_042.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_474.jpg
+data/train/plastic/realwaste_plastic_train_043.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_80.jpg
+data/train/plastic/realwaste_plastic_train_044.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_642.jpg
+data/train/plastic/realwaste_plastic_train_045.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_354.jpg
+data/train/plastic/realwaste_plastic_train_046.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_125.jpg
+data/train/plastic/realwaste_plastic_train_047.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_439.jpg
+data/train/plastic/realwaste_plastic_train_048.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_742.jpg
+data/train/plastic/realwaste_plastic_train_049.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_836.jpg
+data/train/plastic/realwaste_plastic_train_050.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_423.jpg
+data/train/plastic/realwaste_plastic_train_051.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_178.jpg
+data/train/plastic/realwaste_plastic_train_052.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_841.jpg
+data/train/plastic/realwaste_plastic_train_053.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_507.jpg
+data/train/plastic/realwaste_plastic_train_054.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_73.jpg
+data/train/plastic/realwaste_plastic_train_055.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_550.jpg
+data/train/plastic/realwaste_plastic_train_056.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_517.jpg
+data/train/plastic/realwaste_plastic_train_057.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_522.jpg
+data/train/plastic/realwaste_plastic_train_058.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_308.jpg
+data/train/plastic/realwaste_plastic_train_059.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_162.jpg
+data/train/plastic/realwaste_plastic_train_060.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_661.jpg
+data/train/plastic/realwaste_plastic_train_061.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_239.jpg
+data/train/plastic/realwaste_plastic_train_062.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_416.jpg
+data/train/plastic/realwaste_plastic_train_063.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_791.jpg
+data/train/plastic/realwaste_plastic_train_064.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_11.jpg
+data/train/plastic/realwaste_plastic_train_065.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_747.jpg
+data/train/plastic/realwaste_plastic_train_066.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_580.jpg
+data/train/plastic/realwaste_plastic_train_067.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_321.jpg
+data/train/plastic/realwaste_plastic_train_068.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_658.jpg
+data/train/plastic/realwaste_plastic_train_069.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_695.jpg
+data/train/plastic/realwaste_plastic_train_070.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_566.jpg
+data/train/plastic/realwaste_plastic_train_071.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_549.jpg
+data/train/plastic/realwaste_plastic_train_072.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_159.jpg
+data/train/plastic/realwaste_plastic_train_073.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_337.jpg
+data/train/plastic/realwaste_plastic_train_074.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_755.jpg
+data/train/plastic/realwaste_plastic_train_075.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_409.jpg
+data/train/plastic/realwaste_plastic_train_076.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_620.jpg
+data/train/plastic/realwaste_plastic_train_077.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_378.jpg
+data/train/plastic/realwaste_plastic_train_078.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_413.jpg
+data/train/plastic/realwaste_plastic_train_079.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_108.jpg
+data/train/plastic/realwaste_plastic_train_080.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_307.jpg
+data/train/plastic/realwaste_plastic_train_081.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_330.jpg
+data/train/plastic/realwaste_plastic_train_082.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_514.jpg
+data/train/plastic/realwaste_plastic_train_083.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_295.jpg
+data/train/plastic/realwaste_plastic_train_084.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_552.jpg
+data/train/plastic/realwaste_plastic_train_085.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_95.jpg
+data/train/plastic/realwaste_plastic_train_086.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_88.jpg
+data/train/plastic/realwaste_plastic_train_087.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_715.jpg
+data/train/plastic/realwaste_plastic_train_088.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_403.jpg
+data/train/plastic/realwaste_plastic_train_089.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_649.jpg
+data/train/plastic/realwaste_plastic_train_090.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_349.jpg
+data/train/plastic/realwaste_plastic_train_091.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_346.jpg
+data/train/plastic/realwaste_plastic_train_092.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_864.jpg
+data/train/plastic/realwaste_plastic_train_093.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_449.jpg
+data/train/plastic/realwaste_plastic_train_094.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_299.jpg
+data/train/plastic/realwaste_plastic_train_095.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_630.jpg
+data/train/plastic/realwaste_plastic_train_096.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_426.jpg
+data/train/plastic/realwaste_plastic_train_097.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_751.jpg
+data/train/plastic/realwaste_plastic_train_098.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_264.jpg
+data/train/plastic/realwaste_plastic_train_099.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_45.jpg
+data/train/plastic/realwaste_plastic_train_100.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_752.jpg
+data/train/plastic/realwaste_plastic_train_101.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_879.jpg
+data/train/plastic/realwaste_plastic_train_102.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_576.jpg
+data/train/plastic/realwaste_plastic_train_103.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_491.jpg
+data/train/plastic/realwaste_plastic_train_104.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_24.jpg
+data/train/plastic/realwaste_plastic_train_105.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_787.jpg
+data/train/plastic/realwaste_plastic_train_106.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_593.jpg
+data/train/plastic/realwaste_plastic_train_107.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_583.jpg
+data/train/plastic/realwaste_plastic_train_108.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_356.jpg
+data/train/plastic/realwaste_plastic_train_109.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_833.jpg
+data/train/plastic/realwaste_plastic_train_110.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_527.jpg
+data/train/plastic/realwaste_plastic_train_111.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_36.jpg
+data/train/plastic/realwaste_plastic_train_112.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_469.jpg
+data/train/plastic/realwaste_plastic_train_113.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_710.jpg
+data/train/plastic/realwaste_plastic_train_114.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_767.jpg
+data/train/plastic/realwaste_plastic_train_115.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_209.jpg
+data/train/plastic/realwaste_plastic_train_116.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_736.jpg
+data/train/plastic/realwaste_plastic_train_117.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_535.jpg
+data/train/plastic/realwaste_plastic_train_118.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_431.jpg
+data/train/plastic/realwaste_plastic_train_119.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_203.jpg
+data/train/plastic/realwaste_plastic_train_120.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_276.jpg
+data/train/plastic/realwaste_plastic_train_121.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_397.jpg
+data/train/plastic/realwaste_plastic_train_122.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_611.jpg
+data/train/plastic/realwaste_plastic_train_123.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_146.jpg
+data/train/plastic/realwaste_plastic_train_124.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_65.jpg
+data/train/plastic/realwaste_plastic_train_125.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_540.jpg
+data/train/plastic/realwaste_plastic_train_126.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_328.jpg
+data/train/plastic/realwaste_plastic_train_127.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_167.jpg
+data/train/plastic/realwaste_plastic_train_128.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_419.jpg
+data/train/plastic/realwaste_plastic_train_129.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_432.jpg
+data/train/plastic/realwaste_plastic_train_130.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_353.jpg
+data/train/plastic/realwaste_plastic_train_131.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_882.jpg
+data/train/plastic/realwaste_plastic_train_132.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_596.jpg
+data/train/plastic/realwaste_plastic_train_133.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_7.jpg
+data/train/plastic/realwaste_plastic_train_134.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_624.jpg
+data/train/plastic/realwaste_plastic_train_135.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_325.jpg
+data/train/plastic/realwaste_plastic_train_136.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_390.jpg
+data/train/plastic/realwaste_plastic_train_137.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_880.jpg
+data/train/plastic/realwaste_plastic_train_138.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_323.jpg
+data/train/plastic/realwaste_plastic_train_139.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_645.jpg
+data/train/plastic/realwaste_plastic_train_140.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_628.jpg
+data/train/plastic/realwaste_plastic_train_141.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_591.jpg
+data/train/plastic/realwaste_plastic_train_142.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_21.jpg
+data/train/plastic/realwaste_plastic_train_143.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_551.jpg
+data/train/plastic/realwaste_plastic_train_144.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_27.jpg
+data/train/plastic/realwaste_plastic_train_145.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_589.jpg
+data/train/plastic/realwaste_plastic_train_146.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_197.jpg
+data/train/plastic/realwaste_plastic_train_147.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_856.jpg
+data/train/plastic/realwaste_plastic_train_148.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_261.jpg
+data/train/plastic/realwaste_plastic_train_149.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_269.jpg
+data/train/plastic/realwaste_plastic_train_150.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_185.jpg
+data/train/plastic/realwaste_plastic_train_151.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_278.jpg
+data/train/plastic/realwaste_plastic_train_152.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_369.jpg
+data/train/plastic/realwaste_plastic_train_153.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_581.jpg
+data/train/plastic/realwaste_plastic_train_154.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_215.jpg
+data/train/plastic/realwaste_plastic_train_155.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_776.jpg
+data/train/plastic/realwaste_plastic_train_156.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_737.jpg
+data/train/plastic/realwaste_plastic_train_157.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_275.jpg
+data/train/plastic/realwaste_plastic_train_158.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_538.jpg
+data/train/plastic/realwaste_plastic_train_159.jpg,train,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_348.jpg
+data/val/plastic/realwaste_plastic_val_000.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_111.jpg
+data/val/plastic/realwaste_plastic_val_001.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_487.jpg
+data/val/plastic/realwaste_plastic_val_002.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_331.jpg
+data/val/plastic/realwaste_plastic_val_003.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_844.jpg
+data/val/plastic/realwaste_plastic_val_004.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_140.jpg
+data/val/plastic/realwaste_plastic_val_005.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_399.jpg
+data/val/plastic/realwaste_plastic_val_006.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_613.jpg
+data/val/plastic/realwaste_plastic_val_007.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_302.jpg
+data/val/plastic/realwaste_plastic_val_008.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_191.jpg
+data/val/plastic/realwaste_plastic_val_009.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_499.jpg
+data/val/plastic/realwaste_plastic_val_010.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_55.jpg
+data/val/plastic/realwaste_plastic_val_011.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_697.jpg
+data/val/plastic/realwaste_plastic_val_012.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_610.jpg
+data/val/plastic/realwaste_plastic_val_013.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_67.jpg
+data/val/plastic/realwaste_plastic_val_014.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_845.jpg
+data/val/plastic/realwaste_plastic_val_015.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_440.jpg
+data/val/plastic/realwaste_plastic_val_016.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_351.jpg
+data/val/plastic/realwaste_plastic_val_017.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_54.jpg
+data/val/plastic/realwaste_plastic_val_018.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_799.jpg
+data/val/plastic/realwaste_plastic_val_019.jpg,val,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_635.jpg
+data/test/plastic/realwaste_plastic_test_000.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_472.jpg
+data/test/plastic/realwaste_plastic_test_001.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_357.jpg
+data/test/plastic/realwaste_plastic_test_002.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_114.jpg
+data/test/plastic/realwaste_plastic_test_003.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_511.jpg
+data/test/plastic/realwaste_plastic_test_004.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_813.jpg
+data/test/plastic/realwaste_plastic_test_005.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_831.jpg
+data/test/plastic/realwaste_plastic_test_006.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_780.jpg
+data/test/plastic/realwaste_plastic_test_007.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_891.jpg
+data/test/plastic/realwaste_plastic_test_008.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_208.jpg
+data/test/plastic/realwaste_plastic_test_009.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_606.jpg
+data/test/plastic/realwaste_plastic_test_010.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_731.jpg
+data/test/plastic/realwaste_plastic_test_011.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_555.jpg
+data/test/plastic/realwaste_plastic_test_012.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_590.jpg
+data/test/plastic/realwaste_plastic_test_013.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_860.jpg
+data/test/plastic/realwaste_plastic_test_014.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_361.jpg
+data/test/plastic/realwaste_plastic_test_015.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_735.jpg
+data/test/plastic/realwaste_plastic_test_016.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_858.jpg
+data/test/plastic/realwaste_plastic_test_017.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_148.jpg
+data/test/plastic/realwaste_plastic_test_018.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_320.jpg
+data/test/plastic/realwaste_plastic_test_019.jpg,test,plastic,Plastic,realwaste-main/RealWaste/Plastic/Plastic_685.jpg

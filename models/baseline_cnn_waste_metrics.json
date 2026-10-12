@@ -1,0 +1,99 @@
+{
+  "model": "models/baseline_cnn_waste.keras",
+  "test_images": 100,
+  "class_names": [
+    "glass",
+    "metal",
+    "organic",
+    "paper",
+    "plastic"
+  ],
+  "parameter_count": 12939077,
+  "accuracy": 0.52,
+  "precision_macro": 0.5496031746031746,
+  "recall_macro": 0.52,
+  "f1_macro": 0.4798920377867746,
+  "avg_inference_ms": 21.64803599996958,
+  "per_class_report": {
+    "glass": {
+      "precision": 0.875,
+      "recall": 0.35,
+      "f1-score": 0.5,
+      "support": 20.0
+    },
+    "metal": {
+      "precision": 0.42857142857142855,
+      "recall": 0.6,
+      "f1-score": 0.5,
+      "support": 20.0
+    },
+    "organic": {
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1-score": 0.6666666666666666,
+      "support": 20.0
+    },
+    "paper": {
+      "precision": 0.6111111111111112,
+      "recall": 0.55,
+      "f1-score": 0.5789473684210527,
+      "support": 20.0
+    },
+    "plastic": {
+      "precision": 0.3333333333333333,
+      "recall": 0.1,
+      "f1-score": 0.15384615384615385,
+      "support": 20.0
+    },
+    "accuracy": 0.52,
+    "macro avg": {
+      "precision": 0.5496031746031746,
+      "recall": 0.52,
+      "f1-score": 0.4798920377867746,
+      "support": 100.0
+    },
+    "weighted avg": {
+      "precision": 0.5496031746031745,
+      "recall": 0.52,
+      "f1-score": 0.47989203778677464,
+      "support": 100.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      7,
+      2,
+      8,
+      0,
+      3
+    ],
+    [
+      0,
+      12,
+      2,
+      5,
+      1
+    ],
+    [
+      0,
+      0,
+      20,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      4,
+      11,
+      0
+    ],
+    [
+      1,
+      9,
+      6,
+      2,
+      2
+    ]
+  ]
+}

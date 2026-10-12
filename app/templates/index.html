@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intelligent Waste Classification System</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="card">
+    <h1>Intelligent Waste Classification</h1>
+    <p class="subtitle">Upload a photo of a waste item to classify it.</p>
+
+    <form id="upload-form">
+      <input type="file" id="file-input" name="file" accept="image/*" required>
+      <button type="submit">Classify</button>
+    </form>
+
+    <div id="preview-wrap" class="hidden">
+      <img id="preview" alt="Preview of the uploaded image">
+    </div>
+
+    <div id="result" class="hidden"></div>
+    <div id="error" class="error hidden"></div>
+  </main>
+
+  <script>
+    const form = document.getElementById('upload-form');
+    const fileInput = document.getElementById('file-input');
+    const preview = document.getElementById('preview');
+    const previewWrap = document.getElementById('preview-wrap');
+    const resultBox = document.getElementById('result');
+    const errorBox = document.getElementById('error');
+
+    fileInput.addEventListener('change', () => {
+      const file = fileInput.files[0];
+      if (!file) return;
+      preview.src = URL.createObjectURL(file);
+      previewWrap.classList.remove('hidden');
+    });
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      resultBox.classList.add('hidden');
+      errorBox.classList.add('hidden');
+
+      const file = fileInput.files[0];
+      if (!file) return;
+
+      const formData = new FormData();
+      formData.append('file', file);
+
+      try {
+        const res = await fetch('/predict', { method: 'POST', body: formData });
+        const data = await res.json();
+
+        if (!res.ok) {
+          errorBox.textContent = data.error || 'Something went wrong.';
+          errorBox.classList.remove('hidden');
+          return;
+        }
+
+        const pct = (data.confidence * 100).toFixed(1);
+        let html = `<h2>Prediction: ${data.predicted_class}</h2>
+                     <p class="confidence">Confidence: ${pct}%</p><ul class="probs">`;
+        for (const [cls, p] of Object.entries(data.all_probabilities)) {
+          html += `<li><span>${cls}</span><span>${(p * 100).toFixed(1)}%</span></li>`;
+        }
+        html += '</ul>';
+        resultBox.innerHTML = html;
+        resultBox.classList.remove('hidden');
+      } catch (err) {
+        errorBox.textContent = 'Network error — is the server running?';
+        errorBox.classList.remove('hidden');
+      }
+    });
+  </script>
+</body>
+</html>
